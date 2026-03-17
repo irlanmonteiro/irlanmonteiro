@@ -5,7 +5,7 @@ Sou um estudante apaixonado por tecnologia, graduado em analise e desenvolviment
 **Sobre mim:**
 
 *  Estou aprendendo atualmente: JavaScript, HTML5, CSS, React, Redes, Segurança da informação, Docker.
-* ️ Ferramentas que adoro: Git, Github, Coolab, VS Code, VitualBox
+* ️ Ferramentas que adoro: Git, Github, Google Coolab, Kaggle, VS Code, VitualBox
 * ⚡ Interesses: Inteligência artificial, Analise de Dados, Segurança da informação.
 *  Entre em contato: https://www.linkedin.com/in/irlan-nery-monteiro-b58158245/
 
