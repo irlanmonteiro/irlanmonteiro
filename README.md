@@ -13,7 +13,7 @@ Sou um estudante apaixonado por tecnologia, graduado em analise e desenvolviment
 
 **Site THe Batman:** Simulação de site de compras de ingressos para o filme The Batman. Tecnologias utilizadas: Html5, CSS, Javascript,  link do repositório: https://github.com/irlanmonteiro/uploadTestes
 
-**Site de cards MTG:** Site de cards Magic The Gathering. Tecnologias utilizadas: Html5, CSS, Javascript,  link do repositório: https://[github.com/irlanmonteiro/uploadTestes](https://github.com/irlanmonteiro/Mtg-Card)
+**Site de cards MTG:** Site de cards Magic The Gathering. Tecnologias utilizadas: Html5, CSS, Javascript,  link do repositório: https://https://github.com/irlanmonteiro/Mtg-Card
 
 **Agradecimentos:**
 
